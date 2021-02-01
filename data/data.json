@@ -1,0 +1,30 @@
+{
+    "bikes":[
+        {
+            "name": "Gixxer",
+            "image":"img/gixxer.jpeg",
+            "originalprice":70000,
+            "price":45000
+        },{
+            "name": "yamaha R15",
+            "image":"img/r15.jpeg",
+            "originalprice":150000,
+            "price":140000
+        },{
+            "name": "duke",
+            "image":"img/duke.jpeg",
+            "originalprice":170000,
+            "price":200000
+        },{
+            "name": "interceptor",
+            "image":"img/jawa-perak.png",
+            "originalprice":270000,
+            "price":250000
+        },{
+            "name": "bullet",
+            "image":"img/bullet1.jpg",
+            "originalprice":220000,
+            "price":200000
+        }
+    ]
+}
